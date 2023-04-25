@@ -3,7 +3,7 @@ import HomeView from '../views/HomeView.vue'
 import About from '../views/About.vue'
 import Jobs from '../views/jobs/Jobs.vue'
 import JobDetails from '../views/jobs/JobDetails.vue'
-import NotFound from '../views/jobs/NotFound.vue'
+import NotFound from '../views/NotFound.vue'
 
 const routes = [
   {
